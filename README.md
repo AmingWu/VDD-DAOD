@@ -23,13 +23,4 @@ If you find this repository useful for your work, please cite as follows:
   year={2021}
 }
 
-@article{yu2018bdd100k,
-  title={Bdd100k: A diverse driving video database with scalable annotation tooling},
-  author={Yu, Fisher and Xian, Wenqi and Chen, Yingying and Liu, Fangchen and Liao, Mike and Madhavan, Vashisht and Darrell, Trevor},
-  journal={arXiv preprint arXiv:1805.04687},
-  volume={2},
-  number={5},
-  pages={6},
-  year={2018}
-}
 ```
