@@ -19,7 +19,7 @@ If you find this repository useful for your work, please cite as follows:
 @article{wu2021vector,
   title={Vector-Decomposed Disentanglement for Domain-Invariant Object Detection},
   author={Wu, Aming and Liu, Rui and Han, Yahong and Zhu, Linchao and Yang, Yi},
-  journal={arXiv preprint arXiv:2108.06685},
+  journal={IEEE International Conference on Computer Vision (ICCV)},
   year={2021}
 }
 
