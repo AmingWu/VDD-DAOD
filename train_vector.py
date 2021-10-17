@@ -819,7 +819,7 @@ if __name__ == "__main__":
             cfg.POOLING_MODE = checkpoint["pooling_mode"]
         print("loaded checkpoint %s" % (load_name))
 
-    iters_per_epoch = int(s_train_size / args.batch_size / 3)
+    iters_per_epoch = int(s_train_size / args.batch_size)
     # iters_per_epoch = 200
     if args.ef:
         FL = EFocalLoss(class_num=2, gamma=args.gamma)
