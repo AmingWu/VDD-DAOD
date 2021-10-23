@@ -1,0 +1,11 @@
+netD_base.conv1.weight
+netD_base.bn1.weight
+netD_base.bn1.bias
+netD_base.conv2.weight
+netD_base.bn2.weight
+netD_base.bn2.bias
+netD_base.conv3.weight
+netD_base.bn3.weight
+netD_base.bn3.bias
+netD_base.fc.weight
+netD_base.fc.bias
