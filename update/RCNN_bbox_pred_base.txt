@@ -1,2 +1,0 @@
-RCNN_bbox_pred_base.weight
-RCNN_bbox_pred_base.bias

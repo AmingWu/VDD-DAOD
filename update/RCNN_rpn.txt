@@ -1,6 +1,0 @@
-RCNN_rpn.RPN_Conv.weight
-RCNN_rpn.RPN_Conv.bias
-RCNN_rpn.RPN_cls_score.weight
-RCNN_rpn.RPN_cls_score.bias
-RCNN_rpn.RPN_bbox_pred.weight
-RCNN_rpn.RPN_bbox_pred.bias
