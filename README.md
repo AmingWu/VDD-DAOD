@@ -13,6 +13,14 @@ Based on [BDD-100k dataset](https://bdd-data.berkeley.edu), we construct three d
 
 ![shapenet_illuminants](images/aweather.png)
 
+### Training
+
+CUDA_VISIBLE_DEVICES=4 python da_train_net_gl.py --max_epochs 20 --cuda --dataset dc --dataset_t nc --bs 1 --da_use_contex --lc --gc
+
+### Testing
+
+CUDA_VISIBLE_DEVICES=4 python test_SW_ICR_CCR_gl.py --cuda --modelname output_path --dataset nc --gc --lc --model_dir model_name
+
 ## Citation
 
 If you find this repository useful for your work, please cite as follows:
